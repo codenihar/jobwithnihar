@@ -1,0 +1,35 @@
+.filters-bg-container {
+  width: 220px;
+}
+.filters-heading {
+  font-family: Roboto;
+  color: #f8fafc;
+  font-size: 16px;
+  font-weight: 500;
+  margin: 8px 0;
+}
+.filter-text {
+  font-family: Roboto;
+  color: #f8fafc;
+  font-size: 12px;
+  font-weight: 400;
+  margin-left: 8px;
+}
+.filters-list {
+  list-style-type: none;
+  padding: 0;
+}
+.filters-horizontal-line {
+  background-color: #475569;
+  border-color: #475569;
+  margin-bottom: 16px;
+}
+.filter-item {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.filter-checkbox {
+  cursor: pointer;
+}

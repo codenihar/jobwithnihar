@@ -1,0 +1,30 @@
+.profile-card-bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  min-width: 220px;
+  height: 170px;
+  border-radius: 16px;
+  margin-bottom: 16px;
+}
+.profile-image {
+  width: 48px;
+}
+.profile-name {
+  font-family: Roboto;
+  color: #6366f1;
+  font-size: 20px;
+  font-weight: 500;
+  margin: 8px 0;
+}
+.designation {
+  font-family: Roboto;
+  color: #7e858e;
+  font-size: 12px;
+  font-weight: 500;
+  margin: 8px 0 0 0;
+}

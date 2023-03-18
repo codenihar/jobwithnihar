@@ -1,0 +1,31 @@
+.header-bg-container {
+  background-color: #272727;
+  padding: 0 64px;
+  height: 10vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-logo {
+  height: 36px;
+}
+.nav-link {
+  font-family: Roboto;
+  font-size: 16px;
+  color: #f1f5f9;
+  text-decoration: none;
+  margin-left: 16px;
+}
+.logout-button {
+  background-color: #6366f1;
+  width: 100px;
+  height: 28px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: Roboto;
+  font-size: 12px;
+  color: #f1f5f9;
+  font-weight: 500;
+}
